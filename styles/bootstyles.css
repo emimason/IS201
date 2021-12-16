@@ -1,3 +1,4 @@
+/* Last edited by Emily Mason on 12/15 */
 .tabback{
     background-image: url('../assets/images/tabback.jpeg');
     background-position: top;
@@ -38,7 +39,7 @@ body {
 
 .p2{
     font-size: 16px;
-    color: white;
+    color:rgb(1, 1, 56);
     font-weight: 100;
 }
 
@@ -65,7 +66,6 @@ span{
 /* Layout */
 .common{
     /* background-color: #CCCCCC; */
-    /* border: solid 2px white; */
     position: absolute;
 }
 
@@ -79,13 +79,13 @@ span{
 .mainbody{
     top: 150px;
     bottom: 120px; 
-    height: 3550px;
+    height: 3250px;
     left: 150px;
     right: 150px;
 }
 
 .footer{
-    top: 3720px;
+    top: 3420px;
     bottom: 5px;
     height: 100px;
     left: 5px;
